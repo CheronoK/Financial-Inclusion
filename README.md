@@ -13,8 +13,11 @@ Install Python and it's libraries.
 
 Link to the dataset: 
   FinAccess Kenya 2018. [https://fsdkenya.org/publication/finaccess2019/]
+  
   Finscope Rwanda 2016. [http://www.statistics.gov.rw/publication/finscope-rwanda-2016]
+  
   Finscope Tanzania 2017. [http://www.fsdt.or.tz/finscope/]
+  
   Finscope Uganda 2018. [http://fsduganda.or.ug/finscope-2018-survey-report/]
   
 ## Contributing
