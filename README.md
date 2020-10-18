@@ -11,7 +11,7 @@ Open the notebook using the Google Colaboratory link provided, copy it on your d
 ## Installation
 Install Python and it's libraries.
 
-Link to the dataset: 
+Link to the datasets: 
   FinAccess Kenya 2018. [https://fsdkenya.org/publication/finaccess2019/]
   
   Finscope Rwanda 2016. [http://www.statistics.gov.rw/publication/finscope-rwanda-2016]
